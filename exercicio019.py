@@ -1,6 +1,12 @@
 #Peça três números e exiba-os em ordem crescente.
 
-numero1 = int(input("Digite o primeiro numero."))
-numero2 = int(input("Digite o segundo numero."))
-numero3 = int(input("Digite o terceiro numero."))
+n1 = float(input("digite o primeiro numero."))
+n2 = float(input("Digite o segundo numero."))
+n3 = float(input("Digite o terceiro numero."))
 
+numeros = [n1, n2, n3]
+numeros.sort()
+
+print("Numeros em ordens crescentes:")
+for numero in numeros:
+    print(numero)
