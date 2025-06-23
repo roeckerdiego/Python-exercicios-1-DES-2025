@@ -10,3 +10,4 @@ numeros.sort()
 print("Numeros em ordens crescentes:")
 for numero in numeros:
     print(numero)
+    #finalizado
