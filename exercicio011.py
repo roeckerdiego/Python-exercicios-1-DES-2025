@@ -19,3 +19,4 @@ elif peso >= 25 <= 29.9:
     print("Sobrepeso")
 else:
     print("Obesidade.")
+    #finalizado
