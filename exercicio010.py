@@ -6,3 +6,4 @@ elif parcela:
     print("Parcela maxima 0.35% acima do valor do salario")
 else:
     print("Seu salario esta fora do criterio") 
+    #finalizado
