@@ -8,3 +8,4 @@ if usuario == ("admin") and ("1234"):
     print("Acesso concedido")
 else:
     print("Acesso negado")
+    #finalizado
