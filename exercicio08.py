@@ -13,3 +13,4 @@ elif distancia <= 150:
     print("O preço do frete será 15 reais")
 else:
     print("O preço do frete saira a 25 reais") 
+    #finalizado
