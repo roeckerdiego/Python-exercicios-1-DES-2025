@@ -11,3 +11,4 @@ elif media >=5 and 10:
     print("Moderado")
 else:
     print("Rapido")
+    #finalizado
