@@ -3,4 +3,6 @@
 altura = float(input("Digite a altura do seu triângulo: "))
 base = float(input("Digite a base do seu triângulo: "))
 
-area_retangulo = altura * base
+area = altura * base
+
+print("A área do retângulo com base", base, "e altura", altura, "é", area)
