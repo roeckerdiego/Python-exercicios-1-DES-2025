@@ -3,4 +3,4 @@
 def bem_vindo():
     print("Seja bem vindo ao sistema do Diego!")
 
-bem_vindo()
+bem_vindo() 
